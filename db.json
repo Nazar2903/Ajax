@@ -1,0 +1,92 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Nazar",
+            "surname": "Mishchenko",
+            "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fburton_menswear%2F10335709503&psig=AOvVaw2x0VtNtBb-D34hsjZuvWjI&ust=1682267077874000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjM1a7zvf4CFQAAAAAdAAAAABAp",
+            "balance": 1500
+        },
+        
+        {
+            "id": 2,
+            "name": "Bober",
+            "surname": "Bobrius",
+            "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fnotinteresting%2Fcomments%2Fu7jibk%2Frandom_white_guy_i_found_on_google_by_looking_up%2F&psig=AOvVaw2x0VtNtBb-D34hsjZuvWjI&ust=1682267077874000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjM1a7zvf4CFQAAAAAdAAAAABAh",
+            "balance": 2000
+        },
+
+        {
+            "id": 3,
+            "name": "Bulka",
+            "surname": "Kokon",
+            "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FRANDOMP66633521&psig=AOvVaw2x0VtNtBb-D34hsjZuvWjI&ust=1682267077874000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjM1a7zvf4CFQAAAAAdAAAAABAZ",
+            "balance": 1100
+        }
+    ],
+
+    "products":[
+        {
+            "id":1,
+            "name": "Arduino UNO",
+            "description": "Набор для изучения микроэлектроники и робототехники на базе Arduino – платы с микроконтроллером и приличной периферией. Обновленная версия с РЧИД-модулем и др. Включает в себя, пожалуй, все, что нужно на первое время. Все гармонично располагается в пластиковом кейсе, который идет в комплекте.",
+            "price": 90,
+            "author_id": 1,
+            "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Felectronoff.ua%2Fgood%2Farduino-uno-ch340.php&psig=AOvVaw3aRhdqymttq-eW5EdhfW3b&ust=1682267630192000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC9ibb1vf4CFQAAAAAdAAAAABAI"
+        },
+
+        {
+            "id":2,
+            "name": "Arduino NANO",
+            "description": "У продажі нова Arduino Nano 3.0 Atmega328 Type C Ціна 120 грн. Опт від 5 штук = 110грн. Також є RGB стрічка.",
+            "price": 50,
+            "author_id": 2,
+            "photo_url": "https://ireland.apollo.olxcdn.com/v1/files/o7c73yk0n7f9-UA/image;s=400x400;r=270"
+        },
+
+        {
+            "id":3,
+            "name": "Arduino MEGA",
+            "description": "Arduino Mega 2560. Состояние - Ардуино Иде перестал ее видеть. Не паялась. Продается как есть.",
+            "price": 150,
+            "author_id": 3,
+            "photo_url": "https://ireland.apollo.olxcdn.com/v1/files/mh6m4nc66i21-UA/image;s=1000x700"
+        },
+
+        {
+            "id":4,
+            "name": "Resistor",
+            "description": "Carbon film resistor",
+            "price": 100,
+            "author_id": 1,
+            "photo_url": "https://radiodetali.com.ua/images/products/70299/4450132-0-25w-thumb.png"
+        },
+
+        {
+            "id":5,
+            "name": "Wire",
+            "description": "Ретро кабель в текстильній оплетке чорний. Провід виробництва ФАБРИКА Едісона. Матеріал провідника: мідь",
+            "price": 20,
+            "author_id": 2,
+            "photo_url": "https://f-ed.com.ua/image/cache/catalog/i/la/om/547b76b19e41d121ec08b90d20d700b7-129x129.jpg"
+        },
+
+        {
+            "id":6,
+            "name": "Lamp",
+            "description": "Производитель: Horoz Electric. Модель: 001 006 0010 PREMIER - 10. Артикул: 001-006-0010-013. Наличие: больше 200 шт.",
+            "price": 15,
+            "author_id": 3,
+            "photo_url": "https://horozdrop.com.ua/image/cache//catalog/data/PREMIER10-340x340.jpg"
+        },
+
+        {
+            "id":7,
+            "name": "Arduino PRO MINI",
+            "description": "Arduino Pro Mini 5V – маленька плата з процесором ATmega328p. По функціоналу ідентична до Arduino Nano, лише відсутній USB порт. Використовується у вбудованій електроніці, робототехніці, системах розумного будинку, в студентських проектах та багато де ще.",
+            "price": 90,
+            "author_id": 1,
+            "photo_url": "https://uamper.com/image/cache/data/Arduino%20Pro%20Mini%205V-500x500.jpg"
+        }
+    ]
+}
